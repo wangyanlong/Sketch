@@ -4,5 +4,5 @@
 ---
 
 龙炎时钟
-![](../project/时钟.png)
+![](https://github.com/wangyanlong/Sketch/blob/master/project/%E6%97%B6%E9%92%9F.png)
 

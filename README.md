@@ -16,4 +16,9 @@
 ![](https://github.com/wangyanlong/Sketch/blob/master/project/UI中国3.png)
 --
 
+### 龙炎时钟-详情页
+
+![](https://github.com/wangyanlong/Sketch/blob/master/project/详情页.png)
+
+---
 
